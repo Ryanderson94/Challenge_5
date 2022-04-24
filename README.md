@@ -47,7 +47,7 @@ run pip install -r requirements.txt
 4. Obtain your API Key and API Secret Key from Alpacas
 <img width="305" alt="Screen Shot 2022-04-24 at 7 45 24 PM" src="https://user-images.githubusercontent.com/98444459/165001976-d26f6993-a6e0-4dd1-a992-13596913acb9.png">
 
-5. Create a .env file in which to store your API Key and API Secret Keys from Alpacas.
+5. Create a .env file (you can name it api.env to mirror the .env file used in this program) in which to store your API Key and API Secret Keys from Alpacas. 
 <img width="965" alt="Screen Shot 2022-04-24 at 7 52 12 PM" src="https://user-images.githubusercontent.com/98444459/165001945-9cc12442-8b66-4157-bd87-c1f60682380c.png">
 
 ---
