@@ -41,8 +41,14 @@ run pip install -r requirements.txt
 2. From the top folder (Challenge_5), launch jupyter lab by typing 'jupyter lab' into Terminal or Gitbash and pressing 'Enter'
 <img width="498" alt="Screen Shot 2022-04-10 at 7 21 15 PM" src="https://user-images.githubusercontent.com/98444459/162644238-051cd580-bf09-4bc9-9b77-1b495632f4c1.png">
 
-3. Open the 'crypto_arbitrage.ipynb' notebook and follow the instructions therein.  
-<img width="529" alt="Screen Shot 2022-04-10 at 7 22 55 PM" src="https://user-images.githubusercontent.com/98444459/162644301-f7527670-3415-4469-b8ab-ba6d6efa1899.png">
+3. Open the 'financial_planning_tools.ipynb' notebook and follow the instructions therein.  
+<img width="299" alt="Screen Shot 2022-04-24 at 7 49 14 PM" src="https://user-images.githubusercontent.com/98444459/165001822-7557d950-a365-4ebf-896d-933e17a4fcf4.png">
+
+4. Obtain your API Key and API Secret Key from Alpacas
+<img width="305" alt="Screen Shot 2022-04-24 at 7 45 24 PM" src="https://user-images.githubusercontent.com/98444459/165001976-d26f6993-a6e0-4dd1-a992-13596913acb9.png">
+
+5. Create a .env file in which to store your API Key and API Secret Keys from Alpacas.
+<img width="965" alt="Screen Shot 2022-04-24 at 7 52 12 PM" src="https://user-images.githubusercontent.com/98444459/165001945-9cc12442-8b66-4157-bd87-c1f60682380c.png">
 
 ---
 
